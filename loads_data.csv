@@ -1,0 +1,101 @@
+Load_ID,Source,Destination,Weight_Tons,Price,Status,Cargo_Type
+L1000,Jaipur,Lucknow,20,84228,Available,Pharma
+L1001,Patna,Chennai,15,67251,Available,Textiles
+L1002,Surat,Indore,9,57655,Available,Textiles
+L1003,Indore,Ahmedabad,9,42970,Available,Steel Coils
+L1004,Bangalore,Delhi (NCR),9,60003,Available,Electronics
+L1005,Bhopal,Delhi (NCR),20,59358,Available,Pharma
+L1006,Indore,Delhi (NCR),9,76536,Available,Electronics
+L1007,Delhi (NCR),Mumbai,15,43399,Available,Textiles
+L1008,Patna,Pune,20,46319,Available,Steel Coils
+L1009,Patna,Chennai,25,27358,Available,FMCG
+L1010,Chennai,Pune,15,77843,Available,FMCG
+L1011,Kolkata,Delhi (NCR),9,38530,Available,Electronics
+L1012,Delhi (NCR),Lucknow,25,79129,Available,Auto Parts
+L1013,Patna,Nagpur,25,75817,Available,Auto Parts
+L1014,Bhopal,Surat,9,28142,Available,Electronics
+L1015,Bhopal,Nagpur,9,75932,Available,Auto Parts
+L1016,Hyderabad,Delhi (NCR),15,67041,Available,FMCG
+L1017,Patna,Lucknow,25,28502,Available,FMCG
+L1018,Chennai,Bangalore,25,84747,Available,Auto Parts
+L1019,Hyderabad,Patna,25,49357,Available,Auto Parts
+L1020,Patna,Ahmedabad,25,74125,Available,FMCG
+L1021,Indore,Surat,15,29087,Available,Auto Parts
+L1022,Chennai,Ahmedabad,25,49388,Available,Textiles
+L1023,Delhi (NCR),Pune,25,55753,Available,Textiles
+L1024,Indore,Pune,20,38091,Available,Pharma
+L1025,Lucknow,Surat,20,43101,Available,FMCG
+L1026,Kolkata,Ahmedabad,20,71091,Available,Electronics
+L1027,Nagpur,Surat,20,43916,Available,Auto Parts
+L1028,Chennai,Jaipur,25,58890,Available,Textiles
+L1029,Indore,Nagpur,9,52154,Available,Auto Parts
+L1030,Hyderabad,Bhopal,15,77622,Available,Pharma
+L1031,Patna,Indore,15,65789,Available,Electronics
+L1032,Delhi (NCR),Mumbai,20,45443,Available,Textiles
+L1033,Bhopal,Nagpur,25,40233,Available,Pharma
+L1034,Indore,Lucknow,25,77812,Available,Pharma
+L1035,Patna,Indore,15,80228,Available,Textiles
+L1036,Chennai,Kolkata,9,25490,Available,FMCG
+L1037,Pune,Hyderabad,25,80365,Available,Textiles
+L1038,Kolkata,Patna,9,34860,Available,FMCG
+L1039,Pune,Mumbai,25,36804,Available,Steel Coils
+L1040,Jaipur,Surat,9,38991,Available,Auto Parts
+L1041,Jaipur,Nagpur,9,70503,Available,FMCG
+L1042,Hyderabad,Pune,25,55382,Available,Electronics
+L1043,Surat,Nagpur,20,80058,Available,Auto Parts
+L1044,Lucknow,Ahmedabad,25,75300,Available,Pharma
+L1045,Delhi (NCR),Chennai,15,69270,Available,Auto Parts
+L1046,Bangalore,Nagpur,25,38739,Available,Auto Parts
+L1047,Patna,Ahmedabad,15,47450,Available,FMCG
+L1048,Bangalore,Indore,20,75257,Available,FMCG
+L1049,Delhi (NCR),Kolkata,9,29556,Available,Steel Coils
+L1050,Nagpur,Bangalore,15,82125,Available,Pharma
+L1051,Bangalore,Mumbai,15,82774,Available,Electronics
+L1052,Jaipur,Indore,20,80740,Available,Auto Parts
+L1053,Surat,Pune,20,33601,Available,Electronics
+L1054,Pune,Surat,20,60885,Available,Steel Coils
+L1055,Lucknow,Bangalore,25,52122,Available,FMCG
+L1056,Surat,Nagpur,25,25816,Available,Pharma
+L1057,Bangalore,Delhi (NCR),25,76843,Available,FMCG
+L1058,Surat,Patna,25,65924,Available,FMCG
+L1059,Nagpur,Kolkata,9,44945,Available,Steel Coils
+L1060,Chennai,Mumbai,9,51975,Available,Auto Parts
+L1061,Bangalore,Indore,15,70100,Available,Steel Coils
+L1062,Surat,Kolkata,20,48279,Available,Auto Parts
+L1063,Nagpur,Kolkata,15,82379,Available,Pharma
+L1064,Lucknow,Patna,25,36966,Available,Electronics
+L1065,Patna,Hyderabad,15,48651,Available,Steel Coils
+L1066,Nagpur,Bhopal,20,52166,Available,Steel Coils
+L1067,Bhopal,Chennai,25,78486,Available,Steel Coils
+L1068,Patna,Chennai,15,56882,Available,Textiles
+L1069,Mumbai,Delhi (NCR),20,33267,Available,FMCG
+L1070,Ahmedabad,Nagpur,25,59839,Available,Textiles
+L1071,Ahmedabad,Patna,9,69188,Available,Auto Parts
+L1072,Bangalore,Delhi (NCR),15,60675,Available,Steel Coils
+L1073,Indore,Surat,15,83307,Available,Pharma
+L1074,Delhi (NCR),Chennai,15,72937,Available,Electronics
+L1075,Hyderabad,Surat,9,82753,Available,Steel Coils
+L1076,Patna,Delhi (NCR),25,68546,Available,Auto Parts
+L1077,Mumbai,Kolkata,20,49599,Available,FMCG
+L1078,Kolkata,Bangalore,15,34080,Available,Electronics
+L1079,Bangalore,Delhi (NCR),15,36269,Available,Electronics
+L1080,Nagpur,Hyderabad,9,47279,Available,Auto Parts
+L1081,Pune,Kolkata,15,51356,Available,Auto Parts
+L1082,Surat,Lucknow,25,61551,Available,Steel Coils
+L1083,Kolkata,Ahmedabad,15,76956,Available,Steel Coils
+L1084,Lucknow,Patna,15,34071,Available,FMCG
+L1085,Patna,Chennai,15,42377,Available,FMCG
+L1086,Jaipur,Kolkata,20,60127,Available,Auto Parts
+L1087,Nagpur,Lucknow,9,48503,Available,Pharma
+L1088,Surat,Hyderabad,20,41768,Available,Pharma
+L1089,Indore,Lucknow,25,77093,Available,Pharma
+L1090,Surat,Hyderabad,25,45293,Available,Electronics
+L1091,Jaipur,Mumbai,9,35738,Available,FMCG
+L1092,Kolkata,Surat,9,84676,Available,Electronics
+L1093,Indore,Nagpur,9,73382,Available,Electronics
+L1094,Bangalore,Indore,25,58703,Available,Steel Coils
+L1095,Bhopal,Chennai,9,33380,Available,Steel Coils
+L1096,Surat,Chennai,9,82493,Available,Electronics
+L1097,Delhi (NCR),Ahmedabad,9,48757,Available,Steel Coils
+L1098,Jaipur,Chennai,9,43013,Available,Textiles
+L1099,Pune,Patna,25,78972,Available,Pharma

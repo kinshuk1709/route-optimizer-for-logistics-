@@ -1,0 +1,4 @@
+Vehicle_Type,Capacity_Tons,Cost_Per_KM,Daily_Cost,Axles,Description
+small_truck,3,22.5,1500,2,Small Truck (1-3 tons)
+medium_truck,8,27.5,1800,3,Medium Truck (5-10 tons)
+large_truck,20,35.0,2200,4,Large Truck (16+ tons)

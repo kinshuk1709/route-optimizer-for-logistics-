@@ -1,0 +1,12 @@
+{
+  "model_type": "GradientBoostingRegressor",
+  "n_samples": 996,
+  "test_mape": 0.26831200629425994,
+  "test_r2": 0.7510277232635612,
+  "features": [
+    "distance_km",
+    "cargo",
+    "is_peak",
+    "is_weekend"
+  ]
+}
